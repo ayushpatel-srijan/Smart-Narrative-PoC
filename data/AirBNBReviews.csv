@@ -1,0 +1,355 @@
+Genre,Review,Positive or Negative
+ Location,"The location of this Airbnb was perfect, close to all the popular attractions. ",1
+ Cleanliness,"The cleanliness of the Airbnb was outstanding, everything was spotless. ",1
+ Neighborhood,The neighborhood where this Airbnb is situated was vibrant and full of life. ,1
+ Security,I felt completely safe and secure during my stay at this Airbnb. ,1
+ Pet Friendliness,"They were so welcoming to my pet, it felt like a home away from home. ",1
+ Host,The host was incredibly helpful and accommodating. ,1
+ Location,The location of this Airbnb was a bit far from the city center. ,0
+ Cleanliness,"The cleanliness of the Airbnb could have been better, there were some dusty areas. ",0
+ Neighborhood,The neighborhood where this Airbnb is located was noisy and crowded. ,0
+ Security,I had some concerns about the security of the building. ,0
+ Pet Friendliness,"Unfortunately, this Airbnb did not allow pets. ",0
+ Host,The host was unresponsive and difficult to reach. ,0
+ Location,"The location of this Airbnb was amazing, with stunning views. ",1
+ Cleanliness,"The cleanliness of the Airbnb was impeccable, I was impressed. ",1
+ Neighborhood,The neighborhood where this Airbnb is situated was peaceful and charming. ,1
+ Security,I felt very safe and secure in this well-guarded Airbnb. ,1
+ Pet Friendliness,"They provided all the necessary amenities for my pet, it was fantastic. ",1
+ Host,"The host was incredibly friendly and helpful, making my stay enjoyable. ",1
+ Location,"The location of this Airbnb was a bit isolated, far from amenities. ",0
+ Cleanliness,"The cleanliness of the Airbnb was subpar, there were some stains on the linens. ",0
+ Neighborhood,The neighborhood where this Airbnb is located had limited dining options. ,0
+ Security,"I had concerns about the security of the neighborhood, especially at night. ",0
+ Pet Friendliness,"Unfortunately, this Airbnb did not allow pets, which was disappointing. ",0
+ Host,The host was unresponsive to my inquiries and requests. ,0
+ Location,The location of this Airbnb was conveniently located near public transportation. ,1
+ Cleanliness,"The cleanliness of the Airbnb exceeded my expectations, it was spotless. ",1
+ Neighborhood,The neighborhood where this Airbnb is situated had a vibrant nightlife scene. ,1
+ Security,I felt secure and comfortable with the provided security measures at this Airbnb. ,1
+ Pet Friendliness,"They welcomed my pet with open arms, providing pet beds and bowls. ",1
+ Host,The host was incredibly friendly and went above and beyond to make my stay memorable. ,1
+ Location,The location of this Airbnb was a bit noisy due to construction nearby. ,0
+ Cleanliness,"The cleanliness of the Airbnb was mediocre, there were some dust and dirt in corners. ",0
+ Neighborhood,The neighborhood where this Airbnb is located was a bit rough and run-down. ,0
+ Security,I didn't feel completely safe in the surrounding area of this Airbnb. ,0
+ Pet Friendliness,"Unfortunately, this Airbnb did not allow pets, making it inconvenient for pet owners. ",0
+ Host,The host was unresponsive to my messages and requests for assistance. ,0
+,,
+,,
+ Location,"The Airbnb was conveniently located near public transportation, making it easy to get around. ",1
+ Location,"I loved how close this Airbnb was to the beach, providing stunning views and easy access. ",1
+ Location,The Airbnb's location in a quiet residential area was ideal for a peaceful getaway. ,1
+ Location,"Unfortunately, the Airbnb was situated in a remote area, far from the main attractions. ",0
+ Location,"The location of the Airbnb was noisy, with traffic and nightlife nearby. ",0
+ Location,I had difficulty finding the Airbnb due to poor signage and confusing directions. ,0
+ Location,"The Airbnb was far from public transportation, making it challenging to explore the city. ",0
+ Location,"The location of the Airbnb was not as described, and it took longer to reach the city center. ",0
+,,
+ Cleanliness,"The cleanliness of the Airbnb was exceptional, with spotless rooms and fresh linens. ",1
+,,
+ Cleanliness,I appreciated the attention to detail in maintaining the cleanliness of the Airbnb. ,1
+ Cleanliness,"The Airbnb was well-maintained and cleaned regularly, ensuring a comfortable stay. ",1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short, with dirty floors and dusty surfaces. ",0
+ Cleanliness,"There were unpleasant odors in the Airbnb, indicating a lack of thorough cleaning. ",0
+ Cleanliness,"The bathroom in the Airbnb was not cleaned properly, with visible stains and hair. ",0
+ Cleanliness,"I encountered pests in the Airbnb, indicating a lack of pest control measures. ",0
+ Cleanliness,The bedding in the Airbnb had stains and didn't appear to be freshly laundered. ,0
+ Cleanliness,"The cleanliness of the kitchen in the Airbnb was disappointing, with dirty utensils and countertops. ",0
+,,
+ Neighborhood,The neighborhood where the Airbnb was located had a friendly and welcoming atmosphere. ,1
+,,
+ Neighborhood,I loved exploring the vibrant neighborhood with its unique shops and local cafes. ,1
+ Neighborhood,"The Airbnb was situated in a picturesque neighborhood, perfect for leisurely walks. ",1
+ Neighborhood,"Unfortunately, the neighborhood surrounding the Airbnb felt unsafe and insecure. ",0
+ Neighborhood,There was a lack of amenities and dining options in the immediate neighborhood. ,0
+ Neighborhood,"The Airbnb was in a noisy neighborhood, with loud construction and nightlife nearby. ",0
+ Neighborhood,"The surrounding neighborhood had a high crime rate, making me feel uneasy during my stay. ",0
+ Neighborhood,"I expected more attractions and points of interest in the neighborhood, but it was relatively dull. ",0
+,,
+ Security,"I felt secure and safe during my stay at the Airbnb, thanks to robust security measures. ",1
+,,
+ Security,"The Airbnb had secure access controls and surveillance cameras, ensuring peace of mind. ",1
+ Security,The neighborhood where the Airbnb was located had a reputation for safety and low crime rates. ,1
+ Security,"Unfortunately, I had concerns about the security of the Airbnb, especially regarding door locks. ",0
+ Security,The lack of proper lighting in the common areas of the Airbnb made me feel uneasy at night. ,0
+ Security,"There were no security features or guards in place, compromising the overall safety of the Airbnb. ",0
+ Security,"The neighborhood surrounding the Airbnb had a history of break-ins and thefts, raising security concerns. ",0
+ Security,I didn't feel comfortable leaving my belongings unattended in the Airbnb due to inadequate security. ,0
+,,
+ Pet Friendliness,"The Airbnb was incredibly pet-friendly, providing amenities and even a designated pet area. ",1
+,,
+ Pet Friendliness,"They welcomed my furry friend with open arms, providing bowls, treats, and a comfortable bed. ",1
+ Pet Friendliness,"The neighborhood had plenty of parks and green spaces, perfect for walking my pet. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing for a pet owner like me. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities in the neighborhood, making it challenging to accommodate my pet's needs. ",0
+ Pet Friendliness,"The Airbnb had strict rules and restrictions regarding pets, making it inconvenient for pet owners. ",0
+ Pet Friendliness,I encountered difficulties finding pet-friendly outdoor spaces near the Airbnb for my pet's exercise. ,0
+ Pet Friendliness,"The Airbnb did not provide any amenities or considerations for pets, making it unsuitable for pet owners. ",0
+,,
+ Host,"The host of the Airbnb was friendly, accommodating, and responsive to my needs. ",1
+,,
+ Host,"They provided helpful local tips and recommendations, enhancing my overall experience. ",1
+ Host,"The host went above and beyond to ensure a comfortable stay, making me feel like a valued guest. ",1
+ Host,"Unfortunately, the host was unresponsive to my messages and requests for assistance. ",0
+ Host,"The host was unfriendly and lacked professionalism, creating a negative impression of the Airbnb. ",0
+ Host,"They were unhelpful when I encountered issues during my stay, failing to provide any support. ",0
+ Host,"The host was difficult to reach, causing delays and inconvenience in resolving my concerns. ",0
+ Host,"I felt ignored and disregarded by the host, leading to a disappointing experience at the Airbnb. ",0
+,,
+ Location,I loved how close this Airbnb was to all the popular attractions and restaurants. ,1
+ Location,The Airbnb's location provided breathtaking views of the surrounding mountains. ,1
+ Location,"Unfortunately, the Airbnb was quite far from the main tourist areas. ",0
+ Location,"The location of the Airbnb was in a noisy neighborhood, making it hard to sleep. ",0
+ Location,I had trouble finding the Airbnb due to its hidden location and poor signage. ,0
+ Location,"The Airbnb was far from public transportation, making it inconvenient to get around. ",0
+ Location,"The location of the Airbnb was in a sketchy area, and I didn't feel safe walking alone. ",0
+ Cleanliness,"The cleanliness of the Airbnb was top-notch, everything was sparkling clean. ",1
+ Cleanliness,I appreciated the efforts of the host in maintaining the cleanliness of the Airbnb. ,1
+ Cleanliness,"The Airbnb was spotless, and it felt like stepping into a brand new place. ",1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short of my expectations. ",0
+ Cleanliness,"There were visible stains and dirt in some areas of the Airbnb, indicating a lack of cleaning. ",0
+ Cleanliness,"The bathroom in the Airbnb was not cleaned properly, and it had an unpleasant odor. ",0
+ Cleanliness,"I found hair and dust in the bedding, which made me question the cleanliness of the Airbnb. ",0
+ Cleanliness,"The cleanliness of the kitchen was questionable, with greasy countertops and dirty utensils. ",0
+ Neighborhood,The neighborhood where the Airbnb was located had a charming atmosphere with friendly locals. ,1
+ Neighborhood,I enjoyed exploring the vibrant neighborhood filled with trendy cafes and boutiques. ,1
+ Neighborhood,"The Airbnb was situated in a quiet and peaceful neighborhood, perfect for relaxation. ",1
+ Neighborhood,"Unfortunately, the neighborhood had limited dining options and amenities. ",0
+ Neighborhood,The Airbnb was located in a noisy neighborhood with constant traffic and construction noise. ,0
+ Neighborhood,I felt uncomfortable walking around the neighborhood at night due to safety concerns. ,0
+ Neighborhood,"The neighborhood lacked green spaces and parks, making it difficult to enjoy outdoor activities. ",0
+ Neighborhood,I was disappointed with the lack of attractions and points of interest in the immediate neighborhood. ,0
+ Security,"I felt safe and secure throughout my stay at the Airbnb, thanks to reliable security measures. ",1
+ Security,"The Airbnb had secure locks and a well-lit entrance, providing peace of mind. ",1
+ Security,"The neighborhood where the Airbnb was located had a low crime rate, making me feel at ease. ",1
+ Security,"Unfortunately, the security of the Airbnb was questionable, with flimsy locks and poor lighting. ",0
+ Security,"I had concerns about the overall safety of the neighborhood, especially during nighttime. ",0
+ Security,"The Airbnb lacked security features and measures, which made me feel vulnerable. ",0
+ Security,I didn't feel comfortable leaving my belongings unattended in the Airbnb due to inadequate security. ,0
+ Security,"The neighborhood had a reputation for petty theft, which affected my sense of security. ",0
+ Pet Friendliness,"The Airbnb was extremely pet-friendly, with dedicated areas and amenities for pets. ",1
+ Pet Friendliness,"They provided a comfortable space for my pet, including bowls and toys. ",1
+ Pet Friendliness,"The neighborhood had pet-friendly parks and trails, making it convenient for pet owners. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing for me as a pet owner. ",0
+ Pet Friendliness,There were limited options for pet-friendly activities in the neighborhood. ,0
+ Pet Friendliness,"The host had strict rules and restrictions regarding pets, making it inconvenient for pet owners. ",0
+ Pet Friendliness,I had difficulty finding pet-friendly facilities in the vicinity of the Airbnb. ,0
+ Pet Friendliness,"The Airbnb didn't provide any amenities or considerations for pets, making it unsuitable for pet owners. ",0
+ Host,They provided valuable recommendations and tips that enhanced my stay. ,1
+ Host,The host was quick to respond to my messages and addressed any concerns promptly. ,1
+ Host,"Unfortunately, the host was unresponsive and unhelpful throughout my stay. ",0
+ Host,The host lacked professionalism and didn't fulfill their responsibilities as a host. ,0
+ Host,"I had difficulties reaching the host when I needed assistance, causing inconvenience. ",0
+ Host,"The host was rude and unaccommodating, making my experience at the Airbnb unpleasant. ",0
+ Host,"I felt neglected by the host, with little to no communication or support during my stay. ",0
+ Location,"I loved how close this Airbnb was to the main tourist attractions, saving me travel time. ",1
+ Location,"The Airbnb was nestled in a scenic neighborhood, offering a tranquil escape. ",1
+ Location,"Unfortunately, the Airbnb was located in a noisy area, disrupting my sleep. ",0
+ Location,"The neighborhood lacked nearby amenities, making it inconvenient for everyday needs. ",0
+ Location,"I struggled to find parking near the Airbnb, causing frustration during my stay. ",0
+ Location,"The location of the Airbnb was far from the city center, requiring long commutes. ",0
+ Location,"I felt unsafe in the neighborhood surrounding the Airbnb, affecting my overall experience. ",0
+ Cleanliness,I was impressed by how well-maintained and spotless the Airbnb was during my stay. ,1
+ Cleanliness,The host paid great attention to detail in ensuring the cleanliness of every corner of the Airbnb. ,1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short of expectations, with visible dirt and stains. ",0
+ Cleanliness,"There were lingering odors in the Airbnb, indicating a lack of thorough cleaning. ",0
+ Cleanliness,"I noticed dust and cobwebs in some areas of the Airbnb, suggesting inadequate cleaning. ",0
+ Cleanliness,"The bathroom in the Airbnb was not properly cleaned, which was disappointing. ",0
+ Cleanliness,"The kitchen had greasy surfaces and unwashed dishes, diminishing the overall cleanliness. ",0
+ Neighborhood,I enjoyed the local cafes and restaurants in the charming neighborhood surrounding the Airbnb. ,1
+ Neighborhood,"The Airbnb was nestled in a peaceful neighborhood, offering a relaxing retreat. ",1
+ Neighborhood,"Unfortunately, the immediate neighborhood lacked amenities and entertainment options. ",0
+ Neighborhood,"There were safety concerns in the neighborhood, making me feel uneasy during my stay. ",0
+ Neighborhood,"The neighborhood was noisy, with disruptive sounds throughout the day and night. ",0
+ Neighborhood,"I expected more attractions and activities in the neighborhood, but it was relatively dull. ",0
+ Neighborhood,The cleanliness of the neighborhood streets and sidewalks was below par. ,0
+ Security,"The Airbnb had secure locks and a well-lit entrance, ensuring peace of mind during my stay. ",1
+ Security,"The neighborhood had a low crime rate, contributing to a sense of security throughout my visit. ",1
+ Security,"Unfortunately, the security of the Airbnb was lacking, with weak locks and inadequate lighting. ",0
+ Security,"I had concerns about the safety of the neighborhood, particularly during nighttime. ",0
+ Security,"The Airbnb lacked security features such as surveillance cameras, compromising overall safety. ",0
+ Security,I felt uneasy due to the lack of proper security measures in and around the Airbnb. ,0
+ Security,"The neighborhood had a reputation for thefts, negatively impacting my sense of security. ",0
+ Pet Friendliness,"They went above and beyond to accommodate my pet's needs, making our stay enjoyable. ",1
+ Pet Friendliness,"The neighborhood had parks and trails, perfect for walks with my pet. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing for a pet owner like me. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities in the neighborhood, making it challenging to cater to my pet's needs. ",0
+ Pet Friendliness,"The host had strict rules and restrictions regarding pets, limiting the convenience for pet owners. ",0
+ Pet Friendliness,I struggled to find suitable pet-friendly areas near the Airbnb for outdoor activities with my pet. ,0
+ Pet Friendliness,"The Airbnb didn't provide any amenities or considerations for pets, which was disappointing. ",0
+ Host,"They were readily available and responsive, promptly addressing any concerns or inquiries. ",1
+ Host,"The host provided valuable local insights and recommendations, enhancing my stay. ",1
+ Host,"Unfortunately, the host was unresponsive and unhelpful, which negatively impacted my experience. ",0
+ Host,The host lacked professionalism and failed to fulfill their responsibilities adequately. ,0
+ Host,I encountered difficulties reaching the host when I needed assistance or information. ,0
+ Host,"The host was unwelcoming and lacked hospitality, resulting in a disappointing stay. ",0
+ Host,"I felt neglected by the host, with minimal communication and a lack of support throughout my visit. ",0
+ Location,"I loved how centrally located this Airbnb was, making it convenient to explore the city. ",1
+ Location,"The neighborhood where the Airbnb was situated had a charming vibe, with quaint shops and cafes. ",1
+ Location,"Unfortunately, the Airbnb was far from the main tourist spots, requiring lengthy commutes. ",0
+ Location,"The immediate neighborhood lacked amenities and entertainment options, which was disappointing. ",0
+ Location,"I found the location of the Airbnb to be noisy, with constant traffic and street noise. ",0
+ Location,"The Airbnb was situated in a remote area, making it difficult to access public transportation. ",0
+ Location,"I felt unsafe walking around the neighborhood at night, affecting my overall experience. ",0
+ Cleanliness,"I was impressed by how meticulously clean the Airbnb was, creating a comfortable stay. ",1
+ Cleanliness,The host paid great attention to detail in ensuring every corner of the Airbnb was immaculate. ,1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short, with noticeable dirt and dust in some areas. ",0
+ Cleanliness,"There were unpleasant odors in the Airbnb, suggesting a lack of thorough cleaning. ",0
+ Cleanliness,"I encountered uncleaned surfaces and stains in the Airbnb, which was disappointing. ",0
+ Cleanliness,"The bathroom of the Airbnb was not properly cleaned, and it had moldy tiles. ",0
+ Cleanliness,"The kitchen had greasy countertops and dirty utensils, indicating poor cleanliness. ",0
+ Neighborhood,I enjoyed exploring the charming streets and discovering hidden gems in the neighborhood. ,1
+ Neighborhood,"The Airbnb was located in a peaceful and picturesque neighborhood, offering a serene getaway. ",1
+ Neighborhood,"Unfortunately, the neighborhood lacked amenities and had limited options for dining and shopping. ",0
+ Neighborhood,"There were safety concerns in the neighborhood, making me feel uneasy during my stay. ",0
+ Neighborhood,"The neighborhood was noisy, with loud street activities and disturbances throughout the day. ",0
+ Neighborhood,"I expected more attractions and points of interest in the neighborhood, but it was relatively dull. ",0
+ Neighborhood,"The cleanliness of the neighborhood was subpar, with litter and unkempt public spaces. ",0
+ Security,"The Airbnb had secure access and attentive staff, contributing to a safe environment. ",1
+ Security,"The neighborhood had a low crime rate, adding to the overall sense of security. ",1
+ Security,"Unfortunately, the security of the Airbnb was lacking, with flimsy locks and inadequate lighting. ",0
+ Security,"I had concerns about the safety of the neighborhood, especially during nighttime. ",0
+ Security,"The Airbnb lacked visible security features, which affected my peace of mind. ",0
+ Security,I felt uncomfortable due to the lack of proper security measures in and around the Airbnb. ,0
+ Security,"The neighborhood had a reputation for thefts, making me question the overall security. ",0
+ Pet Friendliness,"They went above and beyond to ensure my pet's comfort, making it a truly enjoyable stay. ",1
+ Pet Friendliness,"The neighborhood had pet-friendly parks and walking trails, perfect for outdoor activities with my pet. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing as a pet owner. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities in the vicinity, making it challenging to cater to my pet's needs. ",0
+ Pet Friendliness,"The host had strict restrictions and rules regarding pets, limiting the convenience for pet owners. ",0
+ Pet Friendliness,I struggled to find suitable pet-friendly places nearby for exercise and playtime. ,0
+ Pet Friendliness,"The Airbnb didn't provide any amenities or considerations for pets, which was a letdown. ",0
+ Host,"They were friendly, accommodating, and responsive to any questions or requests. ",1
+ Host,"The host provided valuable recommendations and local insights, enhancing my overall experience. ",1
+ Host,"Unfortunately, the host was unresponsive and unhelpful, which affected my stay negatively. ",0
+ Host,The host lacked professionalism and failed to address concerns adequately. ,0
+ Host,"I had difficulties reaching the host when I needed assistance or information, causing inconvenience. ",0
+ Host,"The host was unwelcoming and unaccommodating, creating a disappointing experience. ",0
+ Host,"I felt ignored by the host, with limited communication and lack of support throughout my stay. ",0
+ Location,"I loved how centrally located this Airbnb was, allowing me to explore the city with ease. ",1
+ Location,"The Airbnb was nestled in a charming neighborhood, surrounded by local shops and restaurants. ",1
+ Location,"Unfortunately, the Airbnb was far from the main city center, requiring long travel times. ",0
+ Location,"The neighborhood lacked convenience stores and amenities, making it inconvenient for daily needs. ",0
+ Location,"I had difficulty finding parking near the Airbnb, which was frustrating during my stay. ",0
+ Location,"The Airbnb was situated in a noisy area, which affected my sleep quality. ",0
+ Location,"I felt unsafe walking around the neighborhood at night, diminishing my overall experience. ",0
+ Cleanliness,I was impressed by the high level of cleanliness maintained throughout the Airbnb. ,1
+ Cleanliness,The host paid great attention to detail in ensuring a clean and hygienic stay. ,1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short of expectations, with visible dirt and stains. ",0
+ Cleanliness,"There were lingering odors in the Airbnb, suggesting a lack of thorough cleaning. ",0
+ Cleanliness,"I noticed dust and cobwebs in some areas of the Airbnb, indicating inadequate cleaning. ",0
+ Cleanliness,"The bathroom in the Airbnb was not properly cleaned, which was disappointing. ",0
+ Cleanliness,"The kitchen had greasy surfaces and unwashed dishes, diminishing the overall cleanliness. ",0
+ Neighborhood,I enjoyed the local cafes and restaurants in the charming neighborhood surrounding the Airbnb. ,1
+ Neighborhood,"The Airbnb was situated in a peaceful and picturesque neighborhood, offering a relaxing retreat. ",1
+ Neighborhood,"Unfortunately, the immediate neighborhood lacked amenities and entertainment options. ",0
+ Neighborhood,"There were safety concerns in the neighborhood, making me feel uneasy during my stay. ",0
+ Neighborhood,"The neighborhood was noisy, with disruptive sounds throughout the day and night. ",0
+ Neighborhood,"I expected more attractions and activities in the neighborhood, but it was relatively dull. ",0
+ Neighborhood,The cleanliness of the neighborhood streets and sidewalks was below par. ,0
+ Security,"The Airbnb had secure locks and a well-lit entrance, ensuring peace of mind during my stay. ",1
+ Security,"The neighborhood had a low crime rate, contributing to a sense of security throughout my visit. ",1
+ Security,"Unfortunately, the security of the Airbnb was lacking, with weak locks and inadequate lighting. ",0
+ Security,"I had concerns about the safety of the neighborhood, particularly during nighttime. ",0
+ Security,"The Airbnb lacked security features such as surveillance cameras, compromising overall safety. ",0
+ Security,I felt uneasy due to the lack of proper security measures in and around the Airbnb. ,0
+ Security,"The neighborhood had a reputation for thefts, affecting my peace of mind. ",0
+ Pet Friendliness,"They went above and beyond to accommodate my pet's needs, making our stay enjoyable. ",1
+ Pet Friendliness,"The neighborhood had pet-friendly parks and walking trails, perfect for outdoor activities with my pet. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing for a pet owner like me. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities in the neighborhood, making it challenging to cater to my pet's needs. ",0
+ Pet Friendliness,"The host had strict rules and restrictions regarding pets, limiting the convenience for pet owners. ",0
+ Pet Friendliness,I struggled to find suitable pet-friendly areas near the Airbnb for outdoor activities with my pet. ,0
+ Pet Friendliness,"The Airbnb didn't provide any amenities or considerations for pets, which was disappointing. ",0
+ Host,"They were responsive and attentive, ensuring all my questions and needs were addressed. ",1
+ Host,"The host provided valuable recommendations and insider tips, enhancing my stay. ",1
+ Host,"Unfortunately, the host was unresponsive and unhelpful, which negatively impacted my experience. ",0
+ Host,The host lacked professionalism and failed to meet my expectations as a guest. ,0
+ Host,"I encountered difficulties in communicating with the host, causing frustration during my stay. ",0
+ Host,"The host was unwelcoming and unaccommodating, creating a disappointing atmosphere. ",0
+ Host,"I felt neglected by the host, with minimal communication and a lack of support throughout my visit. ",0
+ Location,I loved how the Airbnb was situated in a lively neighborhood with plenty of dining and shopping options. ,1
+ Location,The proximity to public transportation made it convenient to explore the city from this Airbnb. ,1
+ Location,"Unfortunately, the Airbnb was located in a remote area, far from the main attractions. ",0
+ Location,"The neighborhood lacked variety in terms of dining options, which was disappointing. ",0
+ Location,"I found the location to be noisy, with constant traffic and street sounds throughout the day. ",0
+ Location,"The Airbnb was situated in a sketchy neighborhood, making me feel unsafe during my stay. ",0
+ Location,"I expected the Airbnb to be closer to the city center, but it required long commutes. ",0
+ Cleanliness,"I was impressed by the attention to cleanliness, as the Airbnb was spotless and well-maintained. ",1
+ Cleanliness,"The host ensured that the Airbnb was consistently clean throughout my stay, which I appreciated. ",1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb did not meet my expectations, with visible dirt and stains. ",0
+ Cleanliness,"There were lingering odors in the Airbnb, suggesting a lack of proper cleaning. ",0
+ Cleanliness,"I noticed dust and cobwebs in certain areas of the Airbnb, indicating subpar cleanliness. ",0
+ Cleanliness,"The bathroom was not thoroughly cleaned, and I encountered some cleanliness issues. ",0
+ Cleanliness,"The kitchen was not properly maintained, with greasy surfaces and unwashed utensils. ",0
+ Neighborhood,I enjoyed exploring the local cafes and boutique shops in the charming neighborhood. ,1
+ Neighborhood,"The Airbnb was located in a peaceful and safe neighborhood, offering a relaxing stay. ",1
+ Neighborhood,"Unfortunately, the immediate neighborhood lacked amenities and was devoid of attractions. ",0
+ Neighborhood,"There were safety concerns in the neighborhood, making me feel uneasy during my stay. ",0
+ Neighborhood,"The neighborhood was noisy, with loud construction and street activities. ",0
+ Neighborhood,"I expected more restaurants and shops in the neighborhood, but it was relatively quiet. ",0
+ Neighborhood,"The cleanliness of the neighborhood could have been better, with litter and unkempt areas. ",0
+ Security,"The Airbnb had secure entry access and attentive staff, providing peace of mind. ",1
+ Security,"The neighborhood had a low crime rate, ensuring a sense of security throughout my stay. ",1
+ Security,"Unfortunately, the security measures in the Airbnb were insufficient, raising concerns. ",0
+ Security,"I had worries about the safety of the neighborhood, particularly during nighttime. ",0
+ Security,"The Airbnb lacked visible security features, which affected my peace of mind. ",0
+ Security,I felt uncomfortable due to the lack of proper security measures in and around the Airbnb. ,0
+ Security,"The neighborhood had a reputation for thefts, making me question the overall security. ",0
+ Pet Friendliness,"They welcomed my pet with open arms, making sure our stay was enjoyable and comfortable. ",1
+ Pet Friendliness,"The neighborhood had parks and pet-friendly spaces, allowing my pet to have a great time. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing as a pet owner. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities nearby, making it challenging to cater to my pet's needs. ",0
+ Pet Friendliness,"The host had strict pet policies, restricting the convenience for pet owners. ",0
+ Pet Friendliness,I struggled to find suitable pet-friendly areas for walking and exercise in the vicinity. ,0
+ Pet Friendliness,"The Airbnb did not provide any amenities or considerations for pets, which was a letdown. ",0
+ Host,"They were attentive, responsive, and made sure I had everything I needed for a pleasant stay. ",1
+ Host,The host went above and beyond to make me feel welcome and gave great local recommendations. ,1
+ Host,"Unfortunately, the host was unresponsive and lacked professionalism, impacting my experience negatively. ",0
+ Host,I had difficulties reaching the host when I needed assistance or had questions during my stay. ,0
+ Host,"The host was unaccommodating and did not address my concerns adequately, which was disappointing. ",0
+ Host,"I felt unwelcome by the host, with limited communication and a lack of support throughout my visit. ",0
+ Host,The host was unhelpful and showed a lack of interest in ensuring a comfortable stay. ,0
+ Location,"I loved how this Airbnb was tucked away in a quiet neighborhood, providing a peaceful retreat after a long day of exploring. ",1
+ Location,"The Airbnb was conveniently located near public transportation, making it a breeze to get around the city. ",1
+ Location,"Unfortunately, the Airbnb was situated in a less desirable area, far from the main tourist spots. ",0
+ Location,The neighborhood lacked a vibrant atmosphere and didn't offer much in terms of nearby amenities. ,0
+ Location,"I found the Airbnb to be too far from restaurants and shops, making it inconvenient for dining out. ",0
+ Location,"The location of the Airbnb was noisy, with constant traffic and street noise disturbing my peace. ",0
+ Location,"I felt unsafe walking around the neighborhood at night, which dampened my overall experience. ",0
+ Cleanliness,"I was impressed by the meticulous attention to cleanliness, making my stay feel hygienic and comfortable. ",1
+ Cleanliness,"The host consistently kept the Airbnb clean and tidy throughout my visit, which I greatly appreciated. ",1
+ Cleanliness,"Unfortunately, the cleanliness of the Airbnb fell short, with noticeable dirt and dust in some areas. ",0
+ Cleanliness,"There were lingering odors in the Airbnb, indicating that proper cleaning measures were not taken. ",0
+ Cleanliness,"I noticed stains and marks on the furniture and surfaces, suggesting a lack of thorough cleaning. ",0
+ Cleanliness,"The bathroom in the Airbnb could have been cleaner, as I found it to be less than satisfactory. ",0
+ Cleanliness,"The kitchen had some cleanliness issues, such as greasy countertops and dirty utensils. ",0
+ Neighborhood,I enjoyed exploring the local attractions and discovering hidden gems in the charming neighborhood. ,1
+ Neighborhood,"The Airbnb was nestled in a picturesque neighborhood, offering a serene and relaxing atmosphere. ",1
+ Neighborhood,"Unfortunately, the immediate neighborhood lacked amenities and didn't have much to offer in terms of convenience. ",0
+ Neighborhood,"There were safety concerns in the neighborhood, making me feel uneasy during my stay. ",0
+ Neighborhood,"The neighborhood was noisy, with disruptive sounds and activities that affected my overall experience. ",0
+ Neighborhood,"I expected more shops and services in the neighborhood, but it was relatively limited in terms of options. ",0
+ Neighborhood,The cleanliness of the neighborhood streets and public spaces could have been better maintained. ,0
+ Security,"The Airbnb had secure access control and a reliable security system, ensuring peace of mind throughout my stay. ",1
+ Security,"The neighborhood had a strong sense of security, with well-lit streets and a low crime rate. ",1
+ Security,"Unfortunately, the security measures in the Airbnb were inadequate, raising concerns about my personal safety. ",0
+ Security,"I had reservations about the safety of the neighborhood, particularly during nighttime hours. ",0
+ Security,"The Airbnb lacked visible security features, making me question the overall safety and protection. ",0
+ Security,I didn't feel entirely comfortable due to the lack of proper security measures both inside and outside the Airbnb. ,0
+ Security,"The neighborhood had a history of security incidents, which affected my peace of mind during the stay. ",0
+ Pet Friendliness,"They went above and beyond to accommodate my pet's needs, making our stay enjoyable and stress-free. ",1
+ Pet Friendliness,"The neighborhood had beautiful parks and walking trails, perfect for outdoor activities with my pet. ",1
+ Pet Friendliness,"Unfortunately, the Airbnb did not allow pets, which was disappointing as a pet owner. ",0
+ Pet Friendliness,"There were limited pet-friendly facilities in the vicinity, making it challenging to cater to my pet's needs. ",0
+ Pet Friendliness,"The host had strict pet policies, which restricted the convenience and comfort for pet owners. ",0
+ Pet Friendliness,I struggled to find suitable pet-friendly areas near the Airbnb for exercise and playtime. ,0
+ Pet Friendliness,"The Airbnb didn't provide any specific amenities or considerations for pets, which was a letdown. ",0
+ Host,"They were incredibly responsive and attentive, addressing all my inquiries and needs promptly. ",1
+ Host,The host gave fantastic local recommendations and made me feel like a valued guest throughout my stay. ,1
+ Host,"Unfortunately, the host was unresponsive and lacked the necessary professionalism, impacting my overall experience. ",0
+ Host,I experienced difficulties in reaching the host when I needed assistance or had questions during my stay. ,0
+ Host,"The host was unaccommodating and did not adequately address my concerns, which was disappointing. ",0
+ Host,"I felt unwelcome by the host, with minimal communication and a lack of support throughout my visit. ",0
+ Host,The host was unhelpful and showed a lack of interest in ensuring a comfortable and enjoyable stay. ,0

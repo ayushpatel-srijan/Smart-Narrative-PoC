@@ -1,0 +1,1 @@
+The most popular mode of payment is Cash and in terms of average transaction value, Cash has the highest value at 326.18, followed by Credit card at 324.01 and Ewallet at 318.82.

@@ -1,0 +1,1 @@
+ `Based on the correlation coefficient, there is a weak negative correlation between the rating and unit price of the products.

@@ -1,0 +1,11 @@
+The story of our customer base begins with an almost equal distribution of gender, with 501 females and 499 males. This means that our products appeal to both genders equally, which is excellent news for our marketing efforts.
+
+Moving on to the sales figures, we've found that the quantity of products sold is pretty consistent across all our branches. The highest quantity sold was at branch A, which is a good indication that this branch is doing exceptionally well.
+
+When it comes to payment methods, the most popular mode of payment is Cash. On average, Cash transactions have the highest value at 326.18, followed by Credit card at 324.01 and Ewallet at 318.82. This indicates that our customers prefer the convenience and ease of cash transactions.
+
+We also looked into whether our product ratings and prices have any correlation. Based on the correlation coefficient, there is a weak negative relationship between the two. This means that while higher-priced products don't necessarily have higher ratings, it's still important to maintain high-quality standards for all our offerings.
+
+Finally, we examined median gross income by city and product line. The resulting series shows us the figures for each product line and city, giving us essential insights into our customers' income levels.
+
+In conclusion, our data has given us a lot of valuable insights into our customer base and business operations. We're pleased to see that our products are equally appealing to both genders, and we'll continue to focus on maintaining our high-quality standards. The figures for sales, payment methods, and income levels help us understand our customers better, and we're excited to explore this data further to make informed decisions for our business's future.

@@ -1,0 +1,9 @@
+numpy
+pandas
+plotly
+altair<5
+pydantic==1.10.1
+requests==2.28.1
+streamlit==1.13.0
+langchain==0.0.223
+
